@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchCandy
 - 👀 I’m interested in Crypto,C And Much More
-- 🌱 I’m currently learning Coding C 
+- 🌱 I’m currently learning Coding For C 
 - 💞️ I’m looking to collaborate on Making A Few Packages For Aur
 - 📫 How to reach me mainniacrypto@gmail.com
 
